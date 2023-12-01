@@ -1,4 +1,4 @@
-﻿namespace WorkFlowEngine
+﻿namespace WorkFlowEng
 {
     class SendEmailToUser : IActivity
     {

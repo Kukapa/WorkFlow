@@ -1,4 +1,4 @@
-﻿namespace WorkFlowEngine
+﻿namespace WorkFlowEng
 {
     public interface IWorkFlow
     {
